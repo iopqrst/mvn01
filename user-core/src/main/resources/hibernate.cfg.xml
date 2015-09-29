@@ -9,10 +9,10 @@
 		<property name="hibernate.connection.driver_class">
 			com.mysql.jdbc.Driver
 		</property>
-		<property name="hibernate.connection.username">bskcare_root</property>
+		<property name="hibernate.connection.username">bsre_root</property>
 		<property name="hibernate.connection.password">654321</property>
 		<property name="hibernate.connection.url">
-			jdbc:mysql://192.168.1.114:3306/bskcare
+			jdbc:mysql://192.168.1.114:3306/bsare
 		</property>
 		<!-- 设置方言 -->
 		<property name="hibernate.dialect">
